@@ -1,2 +1,2 @@
 
-watch -n 1 vcgencmd measure_temp
+watch -n 0.5 vcgencmd measure_temp
